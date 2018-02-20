@@ -3,9 +3,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-/**
- * Created by Марiна on 19.02.2018.
- */
+
 public class Chain {
 
     public static int LongestChain(String input)
